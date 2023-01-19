@@ -1,0 +1,290 @@
+/* first part */
+.header{
+    background-color: antiquewhite;
+    width: 100%;
+}
+.Links{
+    display: flex;
+    justify-content: space-around;   
+}
+.click{
+    
+display: flex;
+gap: 30px;
+font-size: calc(70%);
+margin-top: 25px;
+
+        
+}
+ a{
+    text-decoration: none;
+    color: black;  
+
+}
+
+.text{
+    text-align: center;
+    
+}
+.btn1{
+    background-color: coral;
+    color: azure;
+     border: 0ch;
+    width: 100px;
+    height: 35px;
+}
+.brand{
+    font-size: 40px;
+}
+div img{
+   width: 650px;
+   height: 400PX;
+  padding-left: 600PX;
+  padding-bottom: 50PX;
+}
+.new img{
+    width: 150px;
+    height: 150px;
+}
+.new{
+    margin-top: -200px;
+    margin-left: 170px;
+}
+.neww img{
+    width: 150px;
+    height: 150px;
+}
+.neww{
+    margin-top: 100px;
+}
+.newww img{
+
+ width: 150px;
+ height: 150px;
+}
+.newww{
+   margin-top: -40px;
+}
+.newwww img{
+    width: 150px;
+    height: 150px;  
+}
+.newwww{
+    margin-left: 160px;
+    margin-top: -200px;
+}
+.main{
+    display: flex;
+   
+
+}
+.another{
+    margin-left: 50px;
+    margin-top: 120px;
+}
+.btn{
+    background-color: coral;
+   border: 0ch;
+   height: 40px;
+   width: 100px;
+   color: aliceblue;
+   font-size: 10px;
+}
+#honor{
+    font-size: 10px;
+    
+}
+#honorr{
+    font-weight: 300;
+}
+#horror{
+    color: orangered;
+    font-size: 30px;
+
+}
+/* 2nddddddddK */
+.secondclass{
+    font-size: 8px;
+    box-shadow: black;
+    border: 1px solid black;
+   width: 200px;
+  
+   margin-left: 700px;
+   margin-top: 10px;
+}
+.joss{
+    font-size: 9px;
+    box-shadow: black;
+  
+   width: 200px;
+   margin-left: 700px;
+   margin-top: 40px;
+   border-left: 3px solid orangered;
+}
+.jossss img{
+    width: 300px;
+    height:500px ;
+}
+.jossss{
+    margin-left: 400px;
+margin-top: -490px ;
+}
+.btntwo{
+    background-color: coral;
+border: 0ch;
+height: 90px;
+width: 130px;
+}
+.btnthree{
+font-size: 21px;
+color: aliceblue;
+font-weight: 700;
+}
+.btnfour{
+    margin-left: 950px;
+    margin-top: -130px;
+}
+/* 4thone */
+.thirdshell img{
+    height: 20px;
+    width: 20px;
+    margin-left: -600px;
+margin-bottom: -50PX;
+
+   
+   
+}
+
+.thirdshell{
+  
+   width: 200px;
+   height: 150px;
+ border: 2PX solid orange;
+
+ text-align: center;
+
+}
+.yap{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    margin-top: 100px;
+    
+    
+}
+.written{
+    margin-left: 100px;
+    margin-top: 90px;
+    font-size: 20px;
+}
+/* 5th */
+.fifth{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+  
+.hide{
+    display: none;
+}
+.fifthh1 img{
+    height: 40px;
+    width: 100px;
+
+}
+
+.fifthh2 img{
+    height: 40px;
+    width: 100px;
+}
+.fifthh3 img{
+    height: 40px;
+    width: 100px;
+}
+.fifthh4 img{
+    height: 40px;
+    width: 100px;
+}
+.fifthh5 img{
+    height: 40px;
+    width: 100px;
+}
+.fifthh1{
+    margin-top: 200px;
+    margin-left: -200px;
+    margin-bottom: -100px;
+    margin-top: 90px;
+}
+.fifthh2{
+    margin-bottom: -100px;
+
+}
+.fifthh3{
+    margin-left: 200px;
+    margin-bottom: -90px;
+}
+.fifthh4{
+
+margin-left: 400px;
+margin-bottom: -89px;
+
+}
+.fifthh5{
+    margin-left: 600px;
+
+
+}
+/* hmm */
+.qwe{
+    width:1000px;
+    height:590px;
+    margin-left: 350px;
+    margin-top: 100px;
+  
+ }
+ .owntexpic{
+     text-align: center;
+ }
+ #TAO{
+     font-size: 20px;
+ }
+ .tntwo{
+     background-color:rgb(0, 2, 90);
+     width: 156px;
+     height: 65px;
+     border-style: none;
+     margin-top: 5px;
+    
+     font-size: 25px;
+     font-weight: 400; 
+     color: aliceblue;
+   
+ }
+ .border{
+ margin: 90px 90px;
+ background-color: beige;
+ }
+ /* :end */
+ .last{
+    border: 1px solid beige;
+ background-color: bisque;
+width: 1900px;
+text-align: center;
+padding-bottom: 10px;
+
+}
+@media  (max-width: 577px) {
+    .Links{
+      flex-direction:row;
+      margin-right: 100px;
+   
+}
+.extra {
+
+ width: 650px;
+   height: 400PX;
+  
+  padding-bottom: 50PX;
+}
+}
